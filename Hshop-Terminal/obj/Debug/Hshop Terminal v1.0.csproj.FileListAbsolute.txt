@@ -1,0 +1,47 @@
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\bin\Debug\Hshop Terminal v1.0.exe.config
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\bin\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\bin\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop Terminal v1.0.csproj.AssemblyReference.cache
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop_Terminal_v1._0.Form1.resources
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop_Terminal_v1._0.Properties.Resources.resources
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop Terminal v1.0.csproj.GenerateResource.cache
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop Terminal v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop\Hshop Terminal v1.0\obj\Debug\Hshop_Terminal_v1._0.Form2.resources
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\bin\Debug\Hshop Terminal v1.0.exe.config
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\bin\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\bin\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop Terminal v1.0.csproj.AssemblyReference.cache
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop_Terminal_v1._0.Form1.resources
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop_Terminal_v1._0.Form2.resources
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop_Terminal_v1._0.Properties.Resources.resources
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop Terminal v1.0.csproj.GenerateResource.cache
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop Terminal v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop\Hshop_Terminal\obj\Debug\Hshop_Terminal_v1._0.Form3.resources
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.exe.config
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.AssemblyReference.cache
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form1.resources
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form2.resources
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form3.resources
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Properties.Resources.resources
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.GenerateResource.cache
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.exe.config
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\bin\Debug\Hshop Terminal v1.0.pdb
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.AssemblyReference.cache
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form1.resources
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form2.resources
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Form3.resources
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop_Terminal_v1._0.Properties.Resources.resources
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.GenerateResource.cache
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.exe
+C:\Users\Tam\Desktop\Hshop App\Hshop-Terminal\obj\Debug\Hshop Terminal v1.0.pdb
